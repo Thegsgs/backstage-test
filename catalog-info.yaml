@@ -8,3 +8,4 @@ spec:
   lifecycle: production
   owner: guests
   type: service
+  system: examples
